@@ -3,6 +3,12 @@
 This is a python Tkinter program to simulate a 16x32 LED Matrix
 to enable the user to 'draw' on it and get the resulting data
 in a list for displaying on a real LED matrix.
+
+
+tkmatrix is a Tkinter application to emulate and draw an 'image' to display on a LED matrix board.
+    Copyright (C) 2018 Haoxi Tan
+
+
 '''
 __author__ = "Haoxi Tan"
 
